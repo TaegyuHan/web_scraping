@@ -1,0 +1,30 @@
+상의 		001
+아우터		002	
+원피스		020
+바지		003
+스커트		022
+가방		004
+스니커		018
+신발		005
+시계		006
+모자		007
+스포츠/용품	017
+레그웨어/속옷	008
+안경		009
+악세서리		011
+디지털/테크	012
+생활/취미/예술	013
+뷰티		015
+반려동물		021
+책/음악/티켓	014
+
+
+정보
+product_title / 이름
+product_title_eng / 영어이름
+item_categories / 분류
+product_article / 제품 정보
+product_article_contents / 브랜드 품번
+product_article_contents del / 배송
+explan_product price_info_section  / 판매가
+sale_price / 세일 판매가

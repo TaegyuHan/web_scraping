@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "C:\\Users\\gksxo\\.virtualenvs\\MUSINSA_STORE-ss-5wBBN\\Scripts\\python.exe",
+    "python.formatting.provider": "black",
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true
+}
